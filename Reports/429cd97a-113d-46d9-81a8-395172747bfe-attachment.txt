@@ -1,0 +1,5 @@
+{'name': 'morpheus', 'job': 'leader'}
+b'{"name":"morpheus","job":"leader","id":"895","createdAt":"2020-10-09T19:26:51.693Z"}'
+{'Date': 'Fri, 09 Oct 2020 19:26:51 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '84', 'Connection': 'keep-alive', 'Set-Cookie': '__cfduid=d15d217041a5693cc185c7149418943dd1602271611; expires=Sun, 08-Nov-20 19:26:51 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure', 'X-Powered-By': 'Express', 'Access-Control-Allow-Origin': '*', 'Etag': 'W/"54-zqnCzv/setxPy4m2bi7a4Zw/uT8"', 'Via': '1.1 vegur', 'CF-Cache-Status': 'DYNAMIC', 'cf-request-id': '05b06da2790000b39409a36200000001', 'Expect-CT': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"', 'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report?lkg-colo=162&lkg-time=1602271612"}],"group":"cf-nel","max_age":604800}', 'NEL': '{"report_to":"cf-nel","max_age":604800}', 'Server': 'cloudflare', 'CF-RAY': '5dfa7ee3fdb0b394-IAH'}
+84
+895
